@@ -13,6 +13,7 @@
   "peerDependencies": {
     "react": ">=16.11.0"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@mugan86" },
   "devDependencies": {
     "@types/react": "^16.9.11",
     "react": "^16.11.0",
