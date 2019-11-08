@@ -1,6 +1,6 @@
 {
   "name": "react-library-hello",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -13,7 +13,9 @@
   "peerDependencies": {
     "react": ">=16.11.0"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@mugan86" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@mugan86"
+  },
   "devDependencies": {
     "@types/react": "^16.9.11",
     "react": "^16.11.0",
