@@ -1,0 +1,21 @@
+{
+  "name": "react-library-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "types": "build",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "react": "^16.11.0",
+    "typescript": "^3.7.2"
+  }
+}
